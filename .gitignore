@@ -1,0 +1,11 @@
+# OS generated files
+.DS_Store
+
+# .idea files
+.idea
+
+# .vscode files
+.vscode
+
+/src/node_modules
+/src/dist/*
