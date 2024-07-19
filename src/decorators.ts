@@ -8,7 +8,6 @@ export function ValidateAge(data: Manager) {
         descriptor: PropertyDescriptor // Method it self
     ) {
 
-
         const originalMethod = descriptor.value
 
         descriptor.value = function (...args: any[]) {
